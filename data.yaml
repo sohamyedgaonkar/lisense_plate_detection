@@ -1,0 +1,9 @@
+path: c:\Users\Admin\Desktop\project\abc
+train: train/images
+val: train/images
+
+
+
+names:
+ 0: License_Plate
+
